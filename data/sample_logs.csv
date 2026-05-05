@@ -1,0 +1,6 @@
+timestamp, event_type,source_ip,username,status
+2026-05-05 10:15:23,login_attempt,192.168.1.10,admin,failed
+2026-05-05 10:16:45,login_attempt,192.168.1.10,admin,failed
+2026-05-05 10:17:02,login_attempt,192.168.1.10,admin,failed
+2026-05-05 10:18:30,file_access,192.168.1.25,jdoe,success
+2026-05-05 10:19:10,login_attempt,10.0.0.5,root,failed
