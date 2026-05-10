@@ -1,0 +1,2 @@
+timestamp,username,source_ip,event_type,severity,description
+5/10/2026,j.smith,192.168.1.25,Failed Login,Low,User failed to authenticate one time
